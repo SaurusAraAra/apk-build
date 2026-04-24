@@ -11,7 +11,7 @@ jobs:
           distribution: 'temurin'
       - name: Build Debug APK
         run: |
-          cd AnimeX-Android
+          cd apk-build
           chmod +x gradlew
           ./gradlew assembleDebug
       - name: Upload APK
