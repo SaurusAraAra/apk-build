@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FF050810</color>
+    <color name="surface">#FF080D1A</color>
+    <color name="card">#FF0C1221</color>
+    <color name="card2">#FF101828</color>
+    <color name="cyan">#FF00D4FF</color>
+    <color name="cyan2">#FF00AACC</color>
+    <color name="accent">#FFFF3C6E</color>
+    <color name="border">#1F00D4FF</color>
+    <color name="text">#FFD0E8F0</color>
+    <color name="muted">#FF3A5060</color>
+    <color name="muted2">#FF5A7080</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Nav selector colors -->
+    <color name="nav_active">#FF00D4FF</color>
+    <color name="nav_inactive">#FF5A7080</color>
+</resources>
